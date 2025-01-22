@@ -5,7 +5,7 @@
 
 - 🏔️ I see a lot of beauty in the mundane and aspire to travel and hike lots :)
 
-- 🕑 In my free time I like to wander in grocery stores
+- 🕑 In my free time I like to peruse Carousell and read memoirs
 
 - 📫 How to reach me mirabellechew@gmail.com
 
