@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋 I'm mirabelle (named after a french plum)</h1>
 <h3 align="center">Y3 Data Science and Analytics @ NUS</h3>
 
-- 🔭 I’m currently on NOC Vietnam as a Data Scientist Intern with Rockship
-
 - 🏔️ I see a lot of beauty in the mundane and aspire to travel and hike lots :)
 
-- 🕑 In my free time I like to peruse Carousell and read memoirs
+- 🕑 In my free time I like to peruse Carousell, play mini metro, and read memoirs
 
 - 📫 How to reach me mirabellechew@gmail.com
 
