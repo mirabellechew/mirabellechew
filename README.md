@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm mirabelle (named after a french plum)</h1>
-<h3 align="center">Y3 Data Science and Analytics @ NUS</h3>
+<h3 align="center">Y4 Data Science and Analytics @ NUS</h3>
 
 - 🏔️ I see a lot of beauty in the mundane and aspire to travel and hike lots :)
 
